@@ -1,5 +1,9 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Supercrafter100" alt="Supercrafter100" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&lines=Hello+there!+%F0%9F%91%8B;I+am+Supercrafter100;Welcome+on+my+profile!)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src=https://readme-typing-svg.herokuapp.com?size=40&center=true&lines=Hello+there!+%F0%9F%91%8B;I+am+Supercrafter100;Welcome+on+my+profile!">
+  </a>
+</h1>
 <br>
 <br>
 
