@@ -13,9 +13,7 @@
   <br>
   📚 I’m currently developing discord bots!
   <br>
-</p>
-                                                                               
-<br>
+</p>                                                                              
 <br>
 <hr>
 <p align=center>
