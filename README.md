@@ -16,16 +16,16 @@
   <br>
 </p>                          
 <p align="center">
-  <code><img title="Javascript" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/typescript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/problem-solving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/html5.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/vs-code.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/visual-studio.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/github.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/supercrafter100/supercrafter100/tree/master/images/npm.svg"></code>
+  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/javascript.svg"></code>
+  <code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/typescript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/problem-solving.png"></code>
+  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/html5.svg"></code>
+  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/vs-code.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/visual-studio.png"></code>
+  <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/github.svg"></code>
+  <code><img title="npm" height="25" src="https://raw.githubusercontent.com/supercrafter100/supercrafter100/master/images/npm.svg"></code>
 </p>
                                                                                
 <br>
