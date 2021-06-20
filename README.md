@@ -1,9 +1,20 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Supercrafter100" alt="Supercrafter100" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com?size=40&center=true&lines=Hello+there!+%F0%9F%91%8B;I+am+Supercrafter100;Welcome+on+my+profile!">
+    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Supercrafter100!&center=true&size=40">
   </a>
-</h1>
+</h1>                                                                         
+<br>                                                                              
+<p align="center">
+  × Software Developer ×
+  <br>
+   <br>
+  💻 I am a huge fan of coding stuff
+  <br>
+  📚 I’m currently developing discord bots!
+  <br>
+</p>
+                                                                               
 <br>
 <br>
 
