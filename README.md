@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Supercrafter100" alt="Supercrafter100" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Supercrafter100!&center=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+I+am+Supercrafter100!&center=true&size=40">
   </a>
 </h1>
 <br>
