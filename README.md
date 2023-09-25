@@ -10,9 +10,9 @@
   × Software Developer ×
   <br>
    <br>
-  💻 I am a huge fan of coding stuff
+  💻 I am a programming geek that likes to tackle interesting projects.
   <br>
-  📚 I’m currently developing discord bots!
+  📚 I’m always up for a challenge!
   <br>
 </p>                          
 <p align="center">
